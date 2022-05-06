@@ -35,6 +35,7 @@ General areas to learn when you are new somewhere
 31. How does the company track Operational Expenditure cost for running VMs/Infra/o11y?
 32. Is there a showback or chargeback model for teams to pay for the things they run? Is there a dashboard?
 33. What are the main KPIs/OKRs for the company? New accounts? Churned users? Revenue per X? Cost per X?
+34. How are people held accountable for actions/questions during AMAs? Does the company manage a backlog of "features" from employees in some manner?
 
 
 # Your org
