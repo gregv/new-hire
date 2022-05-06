@@ -30,6 +30,11 @@ General areas to learn when you are new somewhere
 26. What environments do you have? Example: Live, Sandbox, QA, Dev
 27. What are popular and necessary Slack channels with good pinned content?
 28. Do you use distribution lists? Which ones are important to be in?
+29. What non-profits is the company most involved with?
+30. What DBs are used most in production? Is there a similar parity setup for Test Environment?
+31. How does the company track Operational Expenditure cost for running VMs/Infra/o11y?
+32. Is there a showback or chargeback model for teams to pay for the things they run? Is there a dashboard?
+33. What are the main KPIs/OKRs for the company? New accounts? Churned users? Revenue per X? Cost per X?
 
 
 # Your org
