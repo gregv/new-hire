@@ -36,7 +36,8 @@ General areas to learn when you are new somewhere
 32. Is there a showback or chargeback model for teams to pay for the things they run? Is there a dashboard?
 33. What are the main KPIs/OKRs for the company? New accounts? Churned users? Revenue per X? Cost per X?
 34. How are people held accountable for actions/questions during AMAs? Does the company manage a backlog of "features" from employees in some manner?
-
+35. How is vendor management handled if you want to use a new vendor?
+36. How do security assessments work if you want to open firewalls to new/external APIs/services?
 
 # Your org
 1. Why does your org exist?
